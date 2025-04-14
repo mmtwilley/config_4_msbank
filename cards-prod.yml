@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related producation APIs"
+  message: "Hey, welcome to EazyBank cards related web hooks producation APIs"
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "Diana Harald - Product Owner"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
